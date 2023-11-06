@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Technologies and Cryptocurrency based Technologies
 - 🌱 I’m currently learning JavaScript and Solidity
 - 💞️ I’m looking to collaborate on full Stack Software Technologies
-- 📫 How to reach me ....Mail me @ --> manojsiva80@gmail.com                                    
+- 📫 How to reach me ....Mail me @ --> manojsiva2302@gmail.com                                    
 
 <!---
 manojsiva/manojsiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
